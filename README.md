@@ -5,7 +5,7 @@ This repository is a Claude plugin marketplace with one plugin, [`opendocs`](plu
 Add it in Claude Code:
 
 ```
-/plugin marketplace add glenntosco/opendocs-claude-plugin
+/plugin marketplace add P4Software/opendocs-claude-plugin
 /plugin install opendocs@opendocs
 ```
 
