@@ -1,0 +1,10 @@
+{
+  "name": "opendocs",
+  "displayName": "OpenDocs",
+  "version": "1.0.0",
+  "description": "Write, organize and publish documentation to OpenDocs.cloud with Claude: turn a code repository into a docs site, publish SOPs, policies and help articles from a conversation, and audit existing docs for gaps.",
+  "author": { "name": "Grupo Barrdega", "url": "https://opendocs.cloud" },
+  "homepage": "https://opendocs.cloud/claude",
+  "license": "MIT",
+  "keywords": ["documentation", "docs", "help center", "sop", "knowledge base", "opendocs"]
+}

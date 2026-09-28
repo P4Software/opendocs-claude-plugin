@@ -1,0 +1,14 @@
+{
+  "name": "opendocs",
+  "owner": { "name": "Grupo Barrdega", "email": "support@opendocs.cloud" },
+  "metadata": {
+    "description": "Official OpenDocs.cloud plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "opendocs",
+      "source": "./plugins/opendocs",
+      "description": "Write, organize and publish documentation to OpenDocs.cloud with Claude."
+    }
+  ]
+}
