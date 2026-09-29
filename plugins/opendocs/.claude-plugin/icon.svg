@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 40 40" fill="none">
+  <rect width="40" height="40" rx="8" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="opendocs-icon-grad" x1="8" y1="8" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <line x1="8" y1="8" x2="32" y2="32" stroke="url(#opendocs-icon-grad)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="32" y1="8" x2="8" y2="32" stroke="url(#opendocs-icon-grad)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="8" cy="8" r="4.5" fill="#2DD4BF"/>
+  <circle cx="32" cy="8" r="4.5" fill="#14B8A6"/>
+  <circle cx="8" cy="32" r="4.5" fill="#06B6D4"/>
+  <circle cx="32" cy="32" r="4.5" fill="#2563EB"/>
+</svg>
