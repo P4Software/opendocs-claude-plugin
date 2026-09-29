@@ -1,10 +1,25 @@
 {
   "name": "opendocs",
   "displayName": "OpenDocs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Write, organize and publish documentation to OpenDocs.cloud with Claude: turn a code repository into a docs site, publish SOPs, policies and help articles from a conversation, and audit existing docs for gaps.",
-  "author": { "name": "Grupo Barrdega", "url": "https://opendocs.cloud" },
+  "author": {
+    "name": "Grupo Barrdega",
+    "url": "https://opendocs.cloud"
+  },
   "homepage": "https://opendocs.cloud/claude",
   "license": "MIT",
-  "keywords": ["documentation", "docs", "help center", "sop", "knowledge base", "opendocs"]
+  "keywords": [
+    "documentation",
+    "docs",
+    "help center",
+    "sop",
+    "knowledge base",
+    "opendocs"
+  ],
+  "repository": "https://github.com/P4Software/opendocs-claude-plugin",
+  "documentationUrl": "https://opendocs.cloud/claude/",
+  "supportUrl": "https://opendocs.cloud/contact/",
+  "privacyPolicyUrl": "https://opendocs.cloud/privacy/",
+  "termsOfServiceUrl": "https://opendocs.cloud/terms/"
 }
